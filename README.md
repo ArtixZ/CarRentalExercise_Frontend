@@ -11,10 +11,11 @@
  
 ```
 ## Start
+```
   git pull
   npm install
   npm start
-  
+```  
   the webpage will be opened by default at localhost:3001
   * Backend is needed for fetching data
 ### Web
