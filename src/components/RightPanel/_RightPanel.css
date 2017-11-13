@@ -1,0 +1,9 @@
+.cardWrapper {
+    margin: 7px !important;
+}
+.cardWrapper:hover {
+    cursor: pointer
+}
+.cardContent {
+    
+}

@@ -3,11 +3,6 @@ import logo from './logo.svg';
 import './App.css';
 
 class App extends Component {
-  componentDidMount() {
-    fetch('/cars')
-      .then(res => res.json())
-      .then(users => this.setState({ users }));
-  }
   render() {
     return (
       <div className="App">
